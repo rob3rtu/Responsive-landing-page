@@ -303,6 +303,10 @@ a:hover {
   cursor: pointer;
 }
 
+.social_media img:hover {
+  filter: brightness(0);
+}
+
 @media screen and (max-width: 1536px) {
   .social_media {
     width: 9%;
